@@ -1,0 +1,9 @@
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\bin\Debug\PUP Payroll System.exe
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\bin\Debug\PUP Payroll System.pdb
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\bin\Debug\PUP Payroll System.xml
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\obj\x86\Debug\PUP Payroll System.vbproj.GenerateResource.Cache
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\obj\x86\Debug\PUP Payroll System.exe
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\obj\x86\Debug\PUP Payroll System.xml
+C:\Users\BATMAN\Documents\Visual Studio 2010\Projects\PUP Payroll System\PUP Payroll System\obj\x86\Debug\PUP Payroll System.pdb
